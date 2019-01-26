@@ -4,7 +4,36 @@ font-size:30px;
 font-family:Lobster;
 background-color:yellow;
 font-color:Red;
+padding:10px 10px 10px 10px ;
+border-bottom: 2px solid plum;
+border-left: 2px solid plum;
+border-right: 2px solid plum;
+border-top:2px solid plum;  
 }
 .back-color{
   background-color:black;
+}
+
+body{
+  background-color: cyan ;
+
+}
+
+
+
+.submit_button{
+  
+  padding: 10px 10px 10px 10px;
+  background-color:pink; 
+}
+
+
+.search_bar{
+  padding: 10px 10px 10px 10px;
+
+}
+
+.submit_button:hover{
+  background-color:palegreen;
+
 }
